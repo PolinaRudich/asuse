@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "parser": "vue-eslint-parser",
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  "extends": ["eslint:recommended", "plugin:vue/vue3-recommended", "prettier"]
+}
